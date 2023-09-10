@@ -24,7 +24,7 @@ Este proyecto de comercio electrónico está diseñado para proporcionar una pla
 1. **Clonar el repositorio**
 
     ```bash
-    git clone https://github.com/tuusuario/tuproject.git
+    git clone https://github.com/marvin211/EcomMercadoTotal.git
     ```
 2. **Configuración de la Base de Datos:** Configura tu base de datos en el archivo application.properties con los parámetros necesarios.
 

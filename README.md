@@ -21,7 +21,7 @@ Este proyecto de comercio electrónico está diseñado para proporcionar una pla
 - Las dependencias de Spring Boot se gestionan automáticamente, utilizando Maven.
 
 ### Pasos para Ejecutar el Proyecto
-1. **Clonar el repositorio**
+1. **Clonar el repositorio:**
 
     ```bash
     git clone https://github.com/marvin211/EcomMercadoTotal.git
